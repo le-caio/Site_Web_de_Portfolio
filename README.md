@@ -17,9 +17,9 @@ Este é meu site de portfólio pessoal, desenvolvido com HTML, CSS e JavaScript.
 
 ### 🛠️ Tecnologias
 
-* HTML5
-* CSS3 (Flexbox)
-* JavaScript (ES6)
+* **HTML5**
+* **CSS3** (Flexbox)
+* **JavaScript** (ES6)
 
 ---
 
