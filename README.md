@@ -52,7 +52,7 @@ Além disso, há um botão flutuante de "Voltar ao topo" que aparece conforme o 
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/le-caio/[seurepositorio.git](https://github.com/le-caio/Site_Web_de_Portfolio/tree/main)
+git clone https://le-caio.github.io/Site_Web_de_Portfolio/
 ```
 
 2. Abra o arquivo `index.html` no navegador ou hospede com o **GitHub Pages**.
