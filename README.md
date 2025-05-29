@@ -30,7 +30,7 @@ O site é composto por 4 partes principais:
 1. **Cabeçalho**: título e menu de navegação.
 2. **Seção Sobre**: breve descrição pessoal.
 3. **Seção Projetos**: descrição de projetos com links para repositórios no GitHub.
-4. **Seção Contato**: formulário simples.
+4. **Seção Contato**: como entrar em contato comigo.
 5. **Rodapé**: créditos.
 
 Além disso, há um botão flutuante de "Voltar ao topo" que aparece conforme o usuário rola a página.
